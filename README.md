@@ -16,12 +16,21 @@
    }
    else if (A===B || C==B){  
    console.log("no")
-   }
+   }  
    ;; For each JavaScript Operator, write 2 examples.
    let A = 5  
    B = 7  
    C = 8
 6. A + B = 12
+
+- A + C = 13
+
 7. B-C = -1
-8. C/A = 1
+
+- C-A = 3
+
+8. C/A = 1.6
+
+- A/b =0.71428
+
 9. C % A = 3
